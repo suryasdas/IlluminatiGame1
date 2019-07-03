@@ -1,0 +1,84 @@
+American Autoduel Association,1,0,5,1
+Anti-Nuclear Activists,2,0,5,1
+Antiwar Activists,0,0,3,1
+Big Media,4,3,6,3
+Boy Sprouts,0,0,3,1
+California,5,0,4,5
+CFL-AIO,6,0,5,3
+Chinese Campaign Donors,3,0,2,3
+CIA,6,4,5,0
+Clone Arrangers,6,2,6,1
+Comic Books,1,0,1,2
+Congressional Wives,1,0,4,1
+Convenience Stores,1,0,4,3
+Copy Shops,1,0,3,4
+Cycle Gangs,0,0,4,0
+Democrats,5,0,4,3
+Eco-Guerrillas,0,0,6,1
+Empty Eve,3,0,3,4
+Evil Geniuses for a better tomorrow,0,2,6,3
+Fast food chains,2,0,4,3
+FBI,4,2,6,0
+Federal Reserve,5,3,7,6
+Feminists,2,0,2,1
+Fiendish Fluoridators,3,0,5,1
+Flat earthers,1,0,2,1
+Fnord Motor Company,2,0,4,2
+Fraternal Orders 3,0,5,2
+Girlie Magazines, 2,0,2,3
+Goldfish Fanciers,0,0,4,1
+Gun lobby,1,0,3,1
+Hackers,1,1,2,3
+Health food stores,1,0,3,2
+Hollywood,2,0,0,5
+Intellectuals,0,0,3,1
+International Cocaine Smugglers,3,0,5,5
+International Communist Conspiracy,7,0,8,6
+IRS,5,3,5,2
+Junk Mail,1,0,3,2
+KGB,2,2,6,0
+KKK,2,0,5,1
+L-4 Society,1,0,2,0
+Libertarians,1,0,4,1
+Loan Sharks,5,0,5,6
+Local Police Departments,0,0,4,1
+Madison Avenue,3,3,3,2
+The Mafia,7,0,7,6
+The men in black,0,2,6,1
+Militia,2,0,4,2
+Moonies,2,0,4,3
+Moral Minority,2,0,1,2
+Morticians,0,0,4,1
+Multinational Oil Companies,6,0,4,8
+Nephews of God,0,0,4,2
+New York,7,0,8,3
+Nuclear Power Companies,4,0,4,3
+Orbital Mind Control Lasers,4,2,5,0
+Parent/Teacher Agglomeration,0,0,5,1
+Pentagon,6,0,6,2
+The phone company,5,2,6,3
+Phone Phreaks,0,1,1,1
+Post Office,4,3,3,1
+Professional sports,2,0,4,3
+Psychiatrists,0,0,6,2
+Punk Rockers,0,0,4,1
+Recyclers,2,0,2,3
+Republicans,4,0,4,4
+Robot Sea monsters,0,0,6,2
+Science Fiction,0,0,5,1
+Semiconscious liberation army,0,0,8,0
+SMOF,1,0,1,0
+Society for creative anarchism,0,0,4,1
+South American nazis,4,0,6,2
+Survivalists,0,0,6,2
+Tabloids,2,0,3,3
+Texas,6,0,6,4
+Tobacco and liquor companies,4,0,3,3
+Trekkies0,0,4,3
+Trilateral commission,5,0,6,3
+TV Preachers,3,0,6,4
+Underground newspapers,1,1,5,0
+The United Nations,1,0,3,3
+Video games,2,0,3,7
+Yuppies,1,1,4,5
+
