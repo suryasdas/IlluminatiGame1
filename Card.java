@@ -1,6 +1,7 @@
 package danielsPackage;
 public class Card {
 	
+	//public variables
 	private String CardName;
 	private int power;
 	private int transferPower;
